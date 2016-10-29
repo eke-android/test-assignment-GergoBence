@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">App</string>
+    <string name="app_name">Hate List</string>
+    <string name="name">Név</string>
+    <string name="adress">Lakhely</string>
+    <string name="save">Mentés</string>
+    <string name="motiveOfHate">Gyűlölet oka</string>
+    <string name="judgement">Ítélet</string>
+    <string name="add">Hozzáad</string>
 </resources>
